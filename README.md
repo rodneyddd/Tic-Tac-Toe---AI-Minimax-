@@ -38,7 +38,7 @@ Game Mode Customization:
 
 Feel like mixing things up? Customize the game mode by modifying the following settings in the main.py file:
 
-g chnages the gamemode.
+g changes the gamemode.
 r restarts it (it will automatically restart as you playing against the AI)
 0 make you play against the AII
 1 makes you play against a random AI
